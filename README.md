@@ -5,8 +5,8 @@ This project covers event handling in javaScript and responding to these events 
 
 ## How to access ?
 You can access this page in two ways:-
-1)From this link:-  https://shridhar-t.github.io/drumKit/
-2)Download the files and open index.html 
+### 1)From this link:-  https://shridhar-t.github.io/drumKit/
+### 2)Download the files and open index.html 
 
 ## Parting thoughts:-
 I will be waiting to hear some nice drum solo from you guys. :-)
